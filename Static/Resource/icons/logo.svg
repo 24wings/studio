@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="38" viewBox="0 0 218 38">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40.005px;
+        fill: #fff;
+        font-family: "Noto Sans S Chinese";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="海" class="cls-1" x="-1" y="34">海</text>
+  <text id="欧" class="cls-1" x="54" y="33">欧</text>
+  <text id="科" class="cls-1" x="105" y="33">科</text>
+  <text id="技" class="cls-1" x="156" y="33">技</text>
+  
+</svg>
